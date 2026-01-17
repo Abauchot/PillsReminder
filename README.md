@@ -87,9 +87,9 @@ Cron jobs scheduled successfully
 
 ## Deployment
 
-### Option 1: Render.com (Recommended - Free & 24/7)
+### Option 1: Railway.app (Recommended - Free & 24/7)
 
-See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions on deploying to Render.com.
+See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions on deploying to Railway.app.
 
 ### Option 2: Run locally with PM2
 
